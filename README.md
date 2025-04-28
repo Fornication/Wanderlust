@@ -2,6 +2,8 @@
 
 Free auto-installable Wabbajack Modlist by Fornication.
 
+**Wanderlust** is the culmination of my years of playing and modding Skyrim. With well over 1,000 mods, there is a strong focus on emergent gameplay and exploration of the world, along with roleplaying mechanics to make you re-experience Skyrim for the first time again.
+
 List of mods included here: https://modwat.ch/u/Arkays%20Commandment
 
 Feel free to join my discord! [Click Here! ](https://discord.gg/JycmyqzZz7)
@@ -44,7 +46,7 @@ Feel free to join my discord! [Click Here! ](https://discord.gg/JycmyqzZz7)
 
 ## Preamble
 
-Wanderlust is the culmination of my years of playing and modding Skyrim. With well over 1,000 mods, there is a strong focus on emergent gameplay and exploration of the world, along with roleplaying mechanics to make you re-experience Skyrim for the first time again.
+I've been playing and modding Skyrim for well over a decade. I've played with all sorts of mods and all sorts of builds. All of that experience has shaped this list into something that I hope you all can enjoy. I want to share the roleplaying experience I've made and make it something to remember.
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
 
