@@ -1,4 +1,4 @@
-#Wanderlust: a free, auto-installable Wabbajack Modlist by Fornication.
+**WANDERLUST** - a free, auto-installable Wabbajack Modlist by Fornication.
 
 **Wanderlust** is the culmination of my years of playing and modding Skyrim. With well over 1,000 mods, there is a strong focus on emergent gameplay and exploration of the world, along with roleplaying mechanics to make you re-experience Skyrim for the first time again.
 
