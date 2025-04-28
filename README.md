@@ -168,7 +168,7 @@ I've been playing and modding Skyrim for well over a decade. I've played with al
 
 ### Changes to Gameplay
 
-**Please do not expect the game to be functionally similar to vanilla.** There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. 
+**Please do not expect the game to be functionally similar to vanilla.** There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics.
 
 Wanderlust is the Skyrim that I've built to match what I find the most fun. I enjoy exploration, immersion, roleplaying, difficulty, and a strong sense of progression. Wanderlust is a summation of what I enjoy most about Skyrim and is a forever ongoing work in progress. There are way too many details to discuss in a readme, but I invite you to experience Wanderlust more as a journey through your character into Skyrim to really integrate yourself into the world. Pretend it's your first time playing again!
 
@@ -180,8 +180,9 @@ Wanderlust is the Skyrim that I've built to match what I find the most fun. I en
 - Always keep food buffs up to benefit your character; food can be cooked or bought from innkeepers. Make sure to have a meal and a snack effect active when you can!
 - Having a good night sleep or even a poor night sleep increase the rate at which your stamina and magicka regenerate. Be sure to sleep before adventuring.
 - Exploration and even wildlife can be very punishing. Animals tend to be easier and more predictable than bandits, but are less rewarding. The world is deleveled, so think twice before trying to take on vampires or daedra! There is nothing wrong with trial and error. See what works for you.
-- Don’t leave town without being prepared for a fight. Be prepared to run away. Always watch your back. 'DO NOT' run out of stamina, ever.
-- The most important tip: you are an absolute weakling at level 1. You will feel yourself grow dramatically stronger at every level. Don't give up!
+- Don’t leave town without being prepared for a fight. Be prepared to run away. Always watch your back. Carefully planning your adventure, including routes taken, will always be beneficial.
+- Items will be very expensive to purchase and very cheap when selling: speech level and perks are actually important. Don't expect to get rich off selling goods without proper investment.
+- The most important tip: you are an absolute weakling at level 1. You will feel yourself grow dramatically stronger at every level. Don't give up! This list is not intended to feel difficult. It's intended to reward progression and make every encounter feel important.
 
 ### FAQ
 
