@@ -1,10 +1,10 @@
 #Wanderlust
 
-Wabbajack Modlist Installer by Fornication.
+Free auto-installable Wabbajack Modlist by Fornication.
 
 List of mods included here: https://modwat.ch/u/Arkays%20Commandment
 
-Feel free to join my discord! [Requiem - Wabbajack ](https://discord.gg/JycmyqzZz7)
+Feel free to join my discord! [Click Here! ](https://discord.gg/JycmyqzZz7)
 
 - [**Wanderlust**]
   - [Preamble](#preamble)
@@ -15,7 +15,6 @@ Feel free to join my discord! [Requiem - Wabbajack ](https://discord.gg/JycmyqzZ
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
       - [Steam Config](#steam-config)
         - [Disable the Steam Overlay](#disable-the-steam-overlay)
-      - [Change Steams Update Behavior](#change-steams-update-behavior)
       - [Set the Game language and Windows Region to English](#set-the-game-language-and-windows-region-to-english)
       - [Clean Skyrim](#clean-skyrim)
       - [Start Skyrim](#start-skyrim)
@@ -31,12 +30,10 @@ Feel free to join my discord! [Requiem - Wabbajack ](https://discord.gg/JycmyqzZ
   - [Gameplay](#Gameplay)
     - [Changes to Gameplay](#Changes-to-Gameplay) 
     - [Gameplay Tips](#Gameplay-Tips)
-    - [Replayability](#Replayability)
     - [FAQ](#FAQ)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [BethINI](#bethini)
     - [In-Game Settings](#in-game-settings)
-    - [Darkness Settings](#darkness-settings)
     - [Widescreen Users](#widescreen-users)
     - [Zoomed in Display](#zoomed-in-display)
     - [Non-standard or Custom Monitor Resolution](#non-standard-or-custom-monitor-resolution)
@@ -47,7 +44,7 @@ Feel free to join my discord! [Requiem - Wabbajack ](https://discord.gg/JycmyqzZ
 
 ## Preamble
 
-Wanderlust is a Requiem-based and 3Tweaks-based mod list that aims to provide a fair, challenging Skyrim experience. You will be pressured to manage your resources efficiently, plan your travels carefully, and take on all encounters cautiously, while always needing a backup plan. There will be a somewhat steep learning curve for those not used to playing a more punishing list, but progression feels much more meaningful and earned.
+Wanderlust is the culmination of my years of playing and modding Skyrim. With well over 1,000 mods, there is a strong focus on emergent gameplay and exploration of the world, along with roleplaying mechanics to make you re-experience Skyrim for the first time again.
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
 
@@ -58,15 +55,15 @@ Wanderlust is a Requiem-based and 3Tweaks-based mod list that aims to provide a 
 	- You’ll need to launch Skyrim Special Edition from Steam at least once before playing if you haven’t before
 - Latest version of Wabbajack installed to a root folder (example C:\Wabbajack)
 - Enough space to download and install this list 
-	- i. About 86 GB to download and about 128 GB for the installation. In total you'll need around 215 GB of space, but then after the installation completes, you can decide to delete the 65 GB download folder if you'd like. Note that if you delete the downloads, if you try to update the list, you will need to redownload the files.
-- Nexus Mods account (Nexus premium membership is highly recommended)
+	- i. About 95 GB to download and about 130 GB for the installation. In total you'll need around 225 GB of space, but then after the installation completes, you can decide to delete the download folder if you'd like. Note that if you delete the downloads, and if you try to update the list, you will need to redownload all of the files.
+- Nexus Mods account (Nexus premium membership is highly recommended for convenience)
 - Microsoft Visual C++ x64
 	- i. Specifically, the file: vc_redist.x64.exe found here: https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
 	- ii. You may already have this installed; it’s safe to try to install it again if you’re unsure
 
 ## Skyrim Anniversary Edition
 
-- THIS LIST DOES NOT REQUIRE THE PAID CREATION CLUB MODS. This list requires you to have updated to the most recent build of Skyrim Special Edition on Steam, dubbed "Skyrim Anniversary Edition". This only contains 4 free creation club mods. The list itself uses an older Skyrim version, and will automatically be downgraded for you. Your Steam folder will not be touched. Do not run the Downgrade Patcher or the list will not install.
+- This list does not require the paid creation club mods. This list requires you to have updated to the most recent build of Skyrim Special Edition on Steam, dubbed "Skyrim Anniversary Edition". This only contains 4 free creation club mods. The list itself uses an older Skyrim version, and will automatically be downgraded for you. Your Steam folder will not be touched. Do not run the Downgrade Patcher or the list will not install.
 
 - If for some reason you DO NOT want to upgrade to the latest Skyrim version, there is a workaround. Rename your current "Skyrim Special Edition" folder in your steam folder to something else. Go to steam and verify the integrity of the games files, or simply try to play Skyrim Special Edition, and this will trigger Steam to reinstall Skyrim Special Edition. Once it's finished downloading, you can install this list. Upon finalizing the installation, you can optionally delete the newly installed "Skyrim Special Edition" Steam folder, and rename your old folder back to the original name.
 
@@ -87,12 +84,6 @@ Wanderlust is a Requiem-based and 3Tweaks-based mod list that aims to provide a 
 - The Steam Overlay is recommended to be turned off.
 
 - Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
-
-#### Change Steams Update Behavior
-
-- SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
-
-- To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
 #### Set the Game language and Windows Region to English
 
@@ -120,20 +111,20 @@ Wanderlust is a Requiem-based and 3Tweaks-based mod list that aims to provide a 
 
 - The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Open Wabbajack and click on browse modlists.
+1. Open Wabbajack and click on browse lists.
 2. Download the modlist from the Wabbajack UI.
-3. Once the download is done, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/ArkaysCommandment`). The downloads path should automatically fill in the installation path.
+3. Once the download is done, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Wanderlust`). The downloads path should automatically fill in the installation path.
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
 6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
 
 ##### Problems with Wabbajack
 
-- There are a lot of different scenarios where Wabbajack will produce an error. **I recommend re-running Wabbajack before posting anything.** Wabbajack will continue where it left off so you lose no progress.
+- There are a lot of different scenarios where Wabbajack will produce an error. **I highly recommend re-running the Wabbajack install process before posting anything.** Wabbajack will continue where it left off so you lose no progress.
 
 **Could not download x**:
 
-- If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait until I update the Modlist.
+- If a mod updated and the old files got deleted (which is very rare), it is impossible to download them. In this case, wait until I update the Modlist.
 
 **x is not a whitelisted download**:
 
@@ -151,23 +142,18 @@ Wanderlust is a Requiem-based and 3Tweaks-based mod list that aims to provide a 
 
 ## How to start up Wanderlust
 
-- Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to 'SKSE' and then hit the run button. 
+- Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to 'Play Wanderlust' and then hit the run button. 
 
 ## Starting a new game
 
 - Create a new character like usual
-	- I highly recommend you saving your character preset in the racemenu options if you’re fond of your character.
- 	- When you're naming your character, you can press the "Insert" button on your keyboard to randomize your name based on the race and sex you selected.	
-- Once done character creating, STOP. The MCM automation will occur and this can be prone to act buggy. It will probably make your game lag for a short period of time. Let it run until you have no more messages displaying at the top left of your screen. Once you've done that...
-	- Open and then close your magic or inventory menu so that Requiem scripts will begin to initialize. You should hear gears turning. Wait a few seconds, then proceed to the next step.
-- If you want, go to your powers menu and find the spell "Randomize Word Walls". Use the power, wait until it's complete when a message box pops up. This may take over a minute. DO NOT use this at any other point in the game, only in the character creation cell.
-- Talk to the statue of mara and select an option. Once selected, follow the quest directions on how to start your adventure.
+	- I highly recommend you saving your character preset in the racemenu options if you’re fond of your character. Feel free to share presets that you make in our discord channel!
+- Once done character creating, there will be several automated initialization steps that play. Wait maybe 15 seconds for everything to finish, and then you can continue on with your gameplay.
 
 ## In-Game MCM Options
 
-- All mandatory MCMs are pre-loaded.
-- When using a crossbow for the first time ever on your character, you need to *activate* the non-exploitable crossbow reload mod. When *out of combat*, equip your crossbow, and then equip your bolts. Doing this should complete the process of initializing the mod, and you can use your crossbow like normal from then on. If you don't do this, for example if you are in combat, you risk causing the game to crash when you initialize the mod.
-- You can change various MCM settings to your liking. Most changes will NOT persist between saves. This is mod-dependent.
+- All mandatory MCMs are pre-loaded. Nothing needs to be done. You don't have to touch any MCMs!
+- You can change various MCM settings to your liking. Most changes will NOT persist between saves. This is mod-dependent. If you change something, then have any bugs to report, please make a note of what has been changed.
 
 ## Updating
 
@@ -184,31 +170,18 @@ Wanderlust is a Requiem-based and 3Tweaks-based mod list that aims to provide a 
 
 **Please do not expect the game to be functionally similar to vanilla.** There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. 
 
-Wanderlust is the Skyrim that I've built to match what I find the most fun. I enjoy immersion, roleplaying, difficulty, and a strong sense of progression. Wanderlust is a summation of what I enjoy most about Skyrim and is a forever ongoing work in progress. There are way too many details to discuss in a readme, but I invite you to experience Wanderlust more as a journey through your character into Skyrim to really integrate yourself into the world. 
-
-- Requiem is a Skyrim overhaul that encompasses the entire game. Requiem de-levels the world, and you can fight extremely difficult content right from level 1. Not every build can complete all content. Combat can be extremely punishing. Every build has a weakness. All skills will require a perk to be useable. If you're not already familiar with Requiem and wish to play this list, it will be an extremely difficult learning curve.
-- 3Tweaks is a Requiem overhaul that this list is build around. Requiem can be unbalanced, and 3Tweaks aims to fix this. You need to be much more conservative with stamina management. You now can **ONLY** level up by finding insight and greater insight potions and then using your **increase skills** power. These potions are given as quest rewards but mainly found as loot in various chests and for killing various NPCs across Skyrim. It may be a good idea to read up upon 3Tweaks systems https://sites.google.com/view/3bftweaksrequiem/home.
-- Fast Travel is enabled in this list. I encourage you to fast travel... whenever you can afford it.
-- Skyrim Souls makes your inventory menu not pause. Be sure to have necessary hotkeys set up.
-- Using horses to exploit your way up mountains will probably result in you dying.
-- Jumping down mountains instead of using the proper roads may result in you dying.
-- Having proper lighting and not being able to see well in dark dungeons is a part of the design. Find a lantern or other item to help you see.
+Wanderlust is the Skyrim that I've built to match what I find the most fun. I enjoy exploration, immersion, roleplaying, difficulty, and a strong sense of progression. Wanderlust is a summation of what I enjoy most about Skyrim and is a forever ongoing work in progress. There are way too many details to discuss in a readme, but I invite you to experience Wanderlust more as a journey through your character into Skyrim to really integrate yourself into the world. Pretend it's your first time playing again!
 
 ### Gameplay Tips
 
-- Again, in order to gain levels, you need to use the **INCREASE SKILLS** less power after finding some potions or greater potions of insight.
 - Your race matters; choose this carefully.
-- Requiem provides you with 3 starting perks. I recommend that you focus at least 2 of these on combat-related skills to help you through combat.
-- You can choose your standing stone and divine blessing right after starting your character by using the lesser power given to you. Daedric blessings tend to have a downside, and you may want to avoid these until you get more comfortable with the basics.
-- Always keep food buffs up to benefit your character; food can be cooked or bought from innkeepers.
+- You are provided with 3 starting perks. I recommend that you focus at least 1 of these on combat-related skills to help you through combat.
+- You can choose your standing stone and divine blessing right after starting your character by using the lesser power given to you. Daedric blessings tend to have a downside and normally require a murder before they benefit you.
+- Always keep food buffs up to benefit your character; food can be cooked or bought from innkeepers. Make sure to have a meal and a snack effect active when you can!
 - Having a good night sleep or even a poor night sleep increase the rate at which your stamina and magicka regenerate. Be sure to sleep before adventuring.
-- Exploration and even wildlife can be very punishing. You may want to stick to easier tasks and enemies if you lack experience. Once you're more comfortable, bandits are generally the best way to start off most characters. Some bandits may be higher level than you and some bandit camps are more difficult than others. In general, you will want to start off clearing bandit camps to provide early game levels. Boss chests at the end of camps/dungeons always offer insight potions and are a great early game goal. Animals can be hunted and killed too. Animals tend to be easier and more predictable than bandits, but are less rewarding.
+- Exploration and even wildlife can be very punishing. Animals tend to be easier and more predictable than bandits, but are less rewarding. The world is deleveled, so think twice before trying to take on vampires or daedra! There is nothing wrong with trial and error. See what works for you.
 - Don’t leave town without being prepared for a fight. Be prepared to run away. Always watch your back. 'DO NOT' run out of stamina, ever.
-
-### Replayability
-
-- 3Tweaks was designed with shorter playthroughs in mind. Replayability with different races, classes, birthsigns, and divine/daedric blessings keeps you engaged. With permadeath, you may very well be starting over frequently.
-- Despite 3Tweaks being designed for shorter playthroughs, it is EXTREMELY customizable in the Requiem - 3Tweaks MCM. Leveling rate of insight potions is adjustable in the MCM and you can have an extremely long or extremely short playthrough, which is completely up to your discretion. You can repeatedly edit this MCM at any point during your playthrough, if you feel like you need to change it.
+- The most important tip: you are an absolute weakling at level 1. You will feel yourself grow dramatically stronger at every level. Don't give up!
 
 ### FAQ
 
@@ -227,19 +200,14 @@ Wanderlust is the Skyrim that I've built to match what I find the most fun. I en
 		- To manually change this, navigate to Installed location\Stock Game\ and double click SkyrimSE.exe
 	- Mod Organizer: Installed location\
 		- - To manually change this, navigate to Installed location\ and double click on ModOrganizer.exe
-	- INI Path: Mod Organizer > Arkays Commandment
-		- To manually change this, navigate to Installed location\Profiles\Arkays Commandment\ and double click Skyrim.ini
+	- INI Path: Mod Organizer > Wanderlust
+		- To manually change this, navigate to Installed location\Profiles\Wanderlust\ and double click Skyrim.ini
 - Once complete, click on the 'Basic' tab and you can try choosing Poor, Low, Medium, High, or Ultra, depending on what your hardware can handle, keeping in mind the default I use is somewhere inbetween Low and Medium. I wouldn't recommend tweaking individual settings without prior experience. When done, hit 'Save and Exit'.
 
 ### In-Game Settings
 
 - Feel free to adjust any in-game settings as you wish, they shouldn't cause any issues. This includes changing draw distance to gain some frames, changing sound settings, among other things.
 - Note that some in-game settings will simply not work, like enabling the compass, and this is intentional. If something is not working, it cannot be changed by only changing something from in-game settings.
-
-### Darkness Settings
- 
-- If you want the game to be brighter or darker, you can use the Cathedral Weathers MCM.
-
 
 ### Zoomed in Display
 
@@ -263,7 +231,7 @@ Wanderlust is the Skyrim that I've built to match what I find the most fun. I en
 
 - There is no nudity in this list. Nothing in this list is worse than vanilla Skyrim in terms of violence or sexual content. The furthest this list varies from vanilla Skyrim in graphic content is enemies can be burned/electricuted and they will appear to have a charred texture, which already exists in the vanilla game.
 
-- If using the Music Mod in the optional files which is defaultly enabled, you may or may not have issues with copyright on streaming or video services. I do not know, but I would not take the risk and deactivate the mod.
+- If using the Music Mod in the optional files which is defaultly enabled, you may or may not have issues with copyright on streaming or video services.
 
 ## Removing the Modlist
 
