@@ -238,10 +238,6 @@ Wanderlust is the Skyrim that I've built to match what I find the most fun. I en
 
 - Delete the installation folder.
 
-## Credits and Thanks
-
-- Althro for letting me fork his readme!
-
 ## Contact
 
 Official support takes place on my discord channel. You can join [my discord](https://discord.gg/JycmyqzZz7) for less support-related inquiries and chatting as well!
