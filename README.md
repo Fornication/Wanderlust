@@ -55,7 +55,7 @@ I've been playing and modding Skyrim for well over a decade. I've played with al
 	- You’ll need to launch Skyrim Special Edition from Steam at least once before playing if you haven’t before
 - Latest version of Wabbajack installed to a root folder (example C:\Wabbajack)
 - Enough space to download and install this list 
-	- i. About 95 GB to download and about 130 GB for the installation. In total you'll need around 225 GB of space, but then after the installation completes, you can decide to delete the download folder if you'd like. Note that if you delete the downloads, and if you try to update the list, you will need to redownload all of the files.
+	- i. About 100 GB to download and about 135 GB for the installation. In total you'll need around 225 GB of space, but then after the installation completes, you can decide to delete the download folder if you'd like. Note that if you delete the downloads, and if you try to update the list, you will need to redownload all of the files.
 - Nexus Mods account (Nexus premium membership is highly recommended for convenience)
 - Microsoft Visual C++ x64
 	- i. Specifically, the file: vc_redist.x64.exe found here: https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
