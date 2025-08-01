@@ -1,8 +1,8 @@
 **WANDERLUST** - a free, auto-installable Wabbajack Modlist by Fornication.
 
-**Wanderlust** is the culmination of my years of playing and modding Skyrim. Using the beautiful graphics overhaul _Aurora_ as a starting point, I've created a fine balance of graphics and gameplay. With well over **2,000 mods**, there is a strong focus on emergent gameplay and exploration of the world, along with roleplaying mechanics to make you re-experience Skyrim for the first time again.
+**Wanderlust** is the culmination of my years of playing and modding Skyrim. Using the beautiful graphics overhaul _Aurora_ as a starting point, I've created a fine balance of graphics and gameplay. With well over **2,500 mods**, there is a strong focus on emergent gameplay and exploration of the world, along with roleplaying mechanics to make you re-experience Skyrim for the first time again.
 
-List of mods included here: https://modwat.ch/u/Arkays%20Commandment
+List of mods included here: [https://loadorderlibrary.com/lists/wanderlust](https://loadorderlibrary.com/lists/wanderlust)
 
 Feel free to join my discord! [Click Here! ](https://discord.gg/JycmyqzZz7)
 
