@@ -232,7 +232,7 @@ Wanderlust is the Skyrim that I've built to match what I find the most fun. I en
 
 - There is no nudity in this list. Nothing in this list is worse than vanilla Skyrim in terms of violence or sexual content. The furthest this list varies from vanilla Skyrim in graphic content is enemies can be burned/electricuted and they will appear to have a charred texture, which already exists in the vanilla game.
 
-- If using the Music Mod in the optional files which is defaultly enabled, you may or may not have issues with copyright on streaming or video services.
+- If using the Music Mod which is defaultly enabled, you may or may not have issues with copyright on streaming or video services.
 
 ## Removing the Modlist
 
